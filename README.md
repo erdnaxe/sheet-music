@@ -11,3 +11,6 @@ This sheet of music is a arrangement from : http://musescore.com/score/1356711
 
 It was created to be played by students (2 guitars, 1 cello, 1 piano, 2 group of singer).
 You don't need everyone to construct the melody, just one part can be enough.
+
+## Canon in D, Johan Pachelbel
+Rewrite of a arrangement for 4 cellos for readability.
